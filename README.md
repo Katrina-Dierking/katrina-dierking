@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![GitHub Cover](https://blog.hertimetocode.com/wp-content/uploads/2021/04/GH-Cover-1.png)
 ### Hi there 👋
 ### About Me 
-Hello, my name is Katrina Dierking. I'm a Full-Stack Web Developer working in a JavaScript, React, Node-based stack. My passion is building apps and solving the problems of my users. To learn more about me and what I'm passionate about, please check out my [website](https://hertimetocode.com). My website (which includes my portfolio) is a constant work in progress. I am currently building a backend for my site, using the StripeAPI to create an ecommerce section promoting the web development learning tools and products I've created. 
+Hello, my name is Katrina Dierking. I'm a Full-Stack Web Developer working in a JavaScript, React, Node-based stack. My passion is building apps and solving the problems of my users. To learn more about me and what I'm passionate about, please check out my [website](https://hertimetocode.com). My website (which includes my portfolio) is a constant work in progress. I am currently building a backend for my site, using the StripeAPI to create an ecommerce section promoting the Web Development learning tools and products I've created. 
 
  ![Coffee Divider](https://blog.hertimetocode.com/wp-content/uploads/2021/04/coffee-pulse.png)
 
