@@ -37,6 +37,12 @@ Hello, my name is Katrina Dierking. I'm a Full-Stack Web Developer working in a 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=katrina-dierking&theme=pink-green)  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=katrina-dierking&show_icons=true)
 
  ![Coffee Divider](https://blog.hertimetocode.com/wp-content/uploads/2021/04/coffee-pulse.png)
+ 
+ ### View my Trello board (Feel free to leave comments and offer suggestions.)
+  [Invitation Link](https://trello.com/invite/b/hkdssiNx/2b8d15d4f842a97fb5b57036cc6d0e55/projects-tasks)
+ ![Trello board](https://blog.hertimetocode.com/wp-content/uploads/2021/05/TrelloScreen.png)
+ 
 
+ ![Coffee Divider](https://blog.hertimetocode.com/wp-content/uploads/2021/04/coffee-pulse.png)
 ## 😂 Because laughter is the best medicine!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
