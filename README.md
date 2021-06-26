@@ -38,9 +38,9 @@ Hello, my name is Katrina Dierking. I'm a Full-Stack Web Developer working in a 
 
  ![Coffee Divider](https://blog.hertimetocode.com/wp-content/uploads/2021/04/coffee-pulse.png)
  
- ### View my Trello board (Feel free to leave comments and offer suggestions.)
+<!--  ### View my Trello board (Feel free to leave comments and offer suggestions.)
   [Invitation Link](https://trello.com/invite/b/hkdssiNx/2b8d15d4f842a97fb5b57036cc6d0e55/projects-tasks)
- ![Trello board](https://blog.hertimetocode.com/wp-content/uploads/2021/05/TrelloScreen.png)
+ ![Trello board](https://blog.hertimetocode.com/wp-content/uploads/2021/05/TrelloScreen.png) -->
  
 
  ![Coffee Divider](https://blog.hertimetocode.com/wp-content/uploads/2021/04/coffee-pulse.png)
