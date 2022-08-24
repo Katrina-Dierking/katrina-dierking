@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Cover](https://blog.hertimetocode.com/wp-content/uploads/2021/04/GH-Cover-1.png)
+![GitHub Cover](https://blog.hertimetocode.com/wp-content/uploads/2022/08/SOFTWARE.png)
 ### Hi there 👋
 ### About Me 
 Hello, my name is Katrina Dierking. I'm a Front-End Software Engineer working in a JavaScript, React, Node-based stack. My passion is building apps that change lives. To learn more about me and what I'm passionate about, please check out my [website](https://hertimetocode.com). My website (which includes my portfolio) is a constant work in progress. I am currently building a backend for my site, using the StripeAPI to create an ecommerce section promoting the Web Development learning tools and products I've created. 
