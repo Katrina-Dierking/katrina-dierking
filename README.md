@@ -35,6 +35,8 @@ Hello, my name is Katrina Dierking. I'm a Front-End Software Engineer working in
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=katrina-dierking&theme=pink-green)  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=katrina-dierking&show_icons=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=katrina-dierking)](https://git.io/streak-stats)
+
  ![Coffee Divider](https://blog.hertimetocode.com/wp-content/uploads/2021/04/coffee-pulse.png)
  
 <!--  ### View my Trello board (Feel free to leave comments and offer suggestions.)
@@ -43,3 +45,4 @@ Hello, my name is Katrina Dierking. I'm a Front-End Software Engineer working in
  
 ## 😂 Because laughter is the best medicine!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
