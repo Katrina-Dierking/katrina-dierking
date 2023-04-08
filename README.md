@@ -33,7 +33,7 @@ Hello, my name is Katrina Dierking. I'm a Front-End Software Engineer working in
 | Other |  <img src="https://img.shields.io/badge/Tools-Postman-pink.svg?style=flat-plastic" alt="tools">  <img src="https://img.shields.io/badge/Tools-Git-pink.svg?style=flat-plastic" alt="tools"> <img src="https://img.shields.io/badge/Tools-GitHub-pink.svg?style=flat-plastic" alt="tools"> <img src="https://img.shields.io/badge/Editor-VSCode-pink.svg?style=flat-plastic" alt="editor"> <img src="https://img.shields.io/badge/OS-Windows 10-pink.svg?style=flat-plastic" alt="os"> <img src="https://img.shields.io/badge/Code-LESS-pink.svg?style=flat-plastic" alt="code"> <img src="https://img.shields.io/badge/Code-SASS-pink.svg?style=flat-plastic" alt="code"> |
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=katrina-dierking&theme=yellowdark)  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=katrina-dierking&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=katrina-dierking&theme=blue)  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=katrina-dierking&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=katrina-dierking&theme=yellowdark)](https://git.io/streak-stats)
 
