@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-<!-- ![GitHub Cover](https://blog.hertimetocode.com/wp-content/uploads/2022/08/SOFTWARE-1.png) -->
+-->          
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="250" height="250"/>
@@ -47,6 +45,8 @@ To learn more about me and what I'm passionate about, please check out my [websi
 
 
    <div align="center"><img src="https://media.giphy.com/media/UxY46BGYro0WfLxgLH/giphy.gif" width="250" height="250"></div>
+   
+---
 
  
 ### Skills
@@ -63,9 +63,9 @@ To learn more about me and what I'm passionate about, please check out my [websi
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=katrina-dierking&theme=default)  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=katrina-dierking&show_icons=true)
 
- ![GitHub Streak](https://streak-stats.demolab.com?user=katrina-dierking&theme=javascript)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=katrina-dierking&theme=javascript)](https://git.io/streak-stats)
  
- ![Coffee Divider](https://blog.hertimetocode.com/wp-content/uploads/2021/04/coffee-pulse.png)
+![Coffee Divider](https://blog.hertimetocode.com/wp-content/uploads/2021/04/coffee-pulse.png)
  
 <!--  ### View my Trello board (Feel free to leave comments and offer suggestions.)
   [Invitation Link](https://trello.com/invite/b/hkdssiNx/2b8d15d4f842a97fb5b57036cc6d0e55/projects-tasks)
