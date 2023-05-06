@@ -34,16 +34,16 @@ Here are some ideas to get you started:
 </div>
 
 ---
-### ABOUT ME
+### :woman_technologist: ABOUT ME :
+I am a Full Stack Developer from central North Carolina. 
+- :telescope:I'm a Front-End Software Engineer working in a JavaScript, React, Node-based stack.
+- :seedling: My passion is building apps that change lives. 
+- :zap:  
+- :mailbox: How to reach me:<a href="https://www.linkedin.com/in/kalynn-dier/">
+     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
 
- 
-     Hello, my name is Katrina Dierking from central NC. 
-
-     - :telescope:I'm a Front-End Software Engineer working in a JavaScript, React, Node-based stack.
-     - :seedling: My passion is building apps that change lives. 
-     - :zap:  
-     - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kalynn-dier/)
-     To learn more about me and what I'm passionate about, please check out my [website](https://hertimetocode.com). My website (which includes my portfolio) is a constant work in progress. I am currently building a backend for my site, using the StripeAPI to create an ecommerce section promoting the Web Development learning tools and products I've created. 
+To learn more about me and what I'm passionate about, please check out my [website](https://hertimetocode.com). My website (which includes my portfolio) is a constant work in progress. I am currently building a backend for my site, using the StripeAPI to create an ecommerce section promoting the Web Development learning tools and products I've created. 
 
 
    <div align="center"><img src="https://media.giphy.com/media/UxY46BGYro0WfLxgLH/giphy.gif" width="250" height="250"></div>
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=katrina-dierking&theme=default)  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=katrina-dierking&show_icons=true)
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=katrina-dierking&theme=javascript)](https://git.io/streak-stats)
+ ![GitHub Streak](https://streak-stats.demolab.com?user=katrina-dierking&theme=javascript)](https://git.io/streak-stats)
  
  ![Coffee Divider](https://blog.hertimetocode.com/wp-content/uploads/2021/04/coffee-pulse.png)
  
