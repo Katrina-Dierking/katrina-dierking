@@ -33,10 +33,18 @@ Here are some ideas to get you started:
 
 ---
 ### :woman_technologist: ABOUT ME :
-I am a Full Stack Developer from central North Carolina. 
-- :telescope:I'm a Front-End Software Engineer working in a JavaScript, React, Node-based stack.
+
+- :telescope:I'm a FullStack Software Engineer from central North Carolina.
+- :collision: My stack includes MERN while utilizing RTK for state management. 
 - :seedling: My passion is building apps that change lives. 
-- :zap:  
+- :zap: For my 100-hr-project, I am building a social app exclusively for homeschooling moms to include: 
+    - an ecommerce section for buying selling resources
+    - private routes for personal homeschooling pages
+    - virtual classrooms
+    - social feed
+    - personal dashboard
+    - dropzone for images
+    - more
 - :mailbox: How to reach me:<a href="https://www.linkedin.com/in/kalynn-dier/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
