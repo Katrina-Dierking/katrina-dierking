@@ -28,34 +28,50 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
    </a>
  
- ### Good morning! 👋
+ ### Katrina Dierking - Full Stack Software Engineer
 </div>
 
 ---
-### :woman_technologist: ABOUT ME :
-
-- :telescope:I'm a FullStack Software Engineer from central North Carolina.
-- :collision: My stack includes MERN while utilizing RTK for state management. 
-- :seedling: My passion is building apps that change lives. 
-- :zap: For my 100-hr-project, I am building a social app exclusively for homeschooling moms to include: 
-    - an ecommerce section for buying selling resources
-    - private routes for personal homeschooling pages
-    - virtual classrooms
-    - social feed
-    - personal dashboard
-    - dropzone for images
+## :woman_technologist: ABOUT ME :
+- :telescope:I'm a :hash:MomWhoCodes from central North Carolina.
+- :collision: My stack includes HTML/CSS, JS, & MERN while utilizing RTK for state management. 
+- :seedling: My passions include building apps that change lives and encouraging women to join the tech industry. 
+- :hourglass: I have 6+ years in HTML/CSS & design with 4+ years in JS/React. 
+- :zap: For my 100-hr-project, I am currently building a social app exclusively for homeschooling moms to include: 
+    - :dollar: an ecommerce section for buying selling resources
+    - :apple: private routes for personal homeschooling pages
+    - :computer: virtual classrooms
+    - :ok_woman: social feed
+    - :star2: personal dashboard
+    - :boom: dropzone for images
+    - :tropical_drink: monthly virtual Moms Night Out
     - more
 - :mailbox: How to reach me:<a href="https://www.linkedin.com/in/kalynn-dier/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
 
-To learn more about me and what I'm passionate about, please check out my [website](https://hertimetocode.com). My website (which includes my portfolio) is a constant work in progress. I am currently building a backend for my site, using the StripeAPI to create an ecommerce section promoting the Web Development learning tools and products I've created. 
+To learn more about me and what I'm passionate about, please check out my [website](https://hertimetocode.com). My website (which includes my portfolio) is a constant work in progress. 
+
+If you're a :hash:MomWhoCodes and would be interested in collaborating on the Homeschooling Mom Social App, you can also reach me at :mailbox: <a href="https://www.linkedin.com/in/kalynn-dier/">
+     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+   I'd love to have you.
 
 
    <div align="center"><img src="https://media.giphy.com/media/UxY46BGYro0WfLxgLH/giphy.gif" width="250" height="250"></div>
    
 ---
 
+## :microphone: FUN FACTS: 
+- :coffee: I am definitely a coffee addict. I have a coffee pot in every room in my house (except the bathroom and I'm considering putting one there.)
+- :chocolate_bar: I detest chocolate. 
+- :blue_book: I am a multi-published author of several fictional novels (both traditionally and non-traditionally published.) 
+- :ghost: Halloween is my favorite holiday.
+- :ambulance: I left the medical field (as a Paramedic/ FF) to be a software engineer. 
+- :airplane: I love to fly but I've never left the country. (I'm afraid I'll end up in an episode of "Locked Up Abroad")
+- :corn: I love gardening and try to grow as much of my own food as possible. 
+
+---
  
 ### Skills
 |               |               |
