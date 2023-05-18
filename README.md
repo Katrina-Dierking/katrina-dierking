@@ -28,12 +28,12 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
    </a>
  
- ### Katrina Dierking - Full Stack Software Engineer
+ ### Katrina Dierking - FrontEnd Software Engineer
 </div>
 
 ---
 ## :woman_technologist: ABOUT ME :
-- :telescope:I'm a :hash:MomWhoCodes from central North Carolina.
+- :telescope:I'm a :hash:MomWhoCodes from central North Carolina. I'm actively creating #CodingMomsHive.
 - :collision: My stack includes HTML/CSS, JS, & MERN while utilizing RTK for state management. 
 - :seedling: My passions include building apps that change lives and encouraging women to join the tech industry. 
 - :hourglass: I have 6+ years in HTML/CSS & design with 4+ years in JS/React. 
