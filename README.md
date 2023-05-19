@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 - :seedling: My passions include building apps that change lives and encouraging women to join the tech industry. 
 - :hourglass: I have 6+ years in HTML/CSS & design with 4+ years in JS/React. 
 - :zap: For my 100-hr-project, I am currently building a social app exclusively for homeschooling moms to include: 
+    - 🔐 Login/Registration page with authentication
     - :dollar: an ecommerce section for buying selling resources
     - :apple: private routes for personal homeschooling pages
     - :computer: virtual classrooms
