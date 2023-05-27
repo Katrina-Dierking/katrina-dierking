@@ -88,13 +88,13 @@ If you're a :hash:MomWhoCodes and would be interested in collaborating on the Ho
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=katrina-dierking&theme=default)  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=katrina-dierking&show_icons=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=katrina-dierking&theme=javascript-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=katrina-dierking&theme=javascrip)](https://git.io/streak-stats)
  
 ![Coffee Divider](https://blog.hertimetocode.com/wp-content/uploads/2021/04/coffee-pulse.png)
  
 <!--  ### View my Trello board (Feel free to leave comments and offer suggestions.)
   [Invitation Link](https://trello.com/invite/b/hkdssiNx/2b8d15d4f842a97fb5b57036cc6d0e55/projects-tasks)
- ![Trello board](https://blog.hertimetocode.com/wp-content/uploads/2021/05/TrelloScreen.png) -->
+ ![Trello board](https://blog.hertimetocode.com/wp-content/uploads/2021/05/TrelloScreen.png)t -->
  
 ## 😂 Because laughter is the best medicine!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
